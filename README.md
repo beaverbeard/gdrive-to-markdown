@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="gdrive-to-markdown — Google Docs, Sheets и Slides в Markdown-базу знаний">
+</p>
+
 # gdrive-to-markdown
 
-> **Claude Code-скил: забирает Google Docs, Sheets и Slides в чистую Markdown-базу знаний — целиком, с авто-раскладкой по содержимому. Без API-ключей и настройки OAuth.**
+> **Claude Code-скил: забирает Google Docs, Sheets и Slides в чистую Markdown-базу знаний — целиком, с авто-раскладкой по содержимому. Документы предъявлены, проверены, подшиты. Без API-ключей и настройки OAuth.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-skill-da7756.svg)](https://docs.claude.com/en/docs/claude-code/overview)
@@ -13,6 +17,11 @@ Google Drive, чистит от артефактов экспорта и кла�
 /gdocs https://docs.google.com/document/d/.../edit
 → ✓ knowledge/projects/onboarding/Письмо №3.md
 ```
+
+<p align="center">
+  <img src="assets/hero.jpg" alt="Гугл-док проходит проверку и ложится в базу чистой заметкой"><br>
+  <sub><i>Документ предъявлен — APPROVED — подшит в базу</i></sub>
+</p>
 
 ---
 
@@ -98,6 +107,11 @@ Claude скачает документ, определит, куда он лог
 сохранить поверх или сделать копию.
 
 ## Как это работает
+
+<p align="center">
+  <img src="assets/demo.jpg" alt="Слева гугл-док, в центре штамп APPROVED, справа чистая Markdown-заметка"><br>
+  <sub><i>Слева — гугл-док, справа — он же чистой заметкой с # заголовками и - списками</i></sub>
+</p>
 
 ### Два жёстких правила
 
