@@ -1,0 +1,22 @@
+{
+  "name": "gdrive-to-markdown",
+  "displayName": "Google Drive → Markdown",
+  "version": "1.0.0",
+  "description": "Забирает Google Docs, Sheets и Slides в чистую Markdown-базу знаний целиком, с раскладкой по содержимому, через коннектор Google Drive. Без API-ключей и OAuth.",
+  "author": {
+    "name": "Rodion Scryabin (beaverbeard)",
+    "url": "https://github.com/beaverbeard"
+  },
+  "homepage": "https://github.com/beaverbeard/gdrive-to-markdown",
+  "repository": "https://github.com/beaverbeard/gdrive-to-markdown",
+  "license": "MIT",
+  "keywords": [
+    "google-drive",
+    "markdown",
+    "knowledge-base",
+    "import"
+  ],
+  "skills": [
+    "./.claude/skills/"
+  ]
+}
