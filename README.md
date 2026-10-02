@@ -9,6 +9,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-skill-da7756.svg)](https://docs.claude.com/en/docs/claude-code/overview)
 
+**In English.** gdrive-to-markdown imports Google Docs, Sheets and Slides into a Markdown knowledge base (Obsidian, a repo, any vault). Give Claude a link: it fetches the file through your own Google Drive connector in Claude, cleans export artifacts, keeps the content in full rather than summarizing, and saves it as a `.md` file in the folder that fits its content. No API keys or OAuth setup; it reads only the documents you point it to. Instructions and folder rules are in Russian, documents in any language work.
+
+
 Даёте ссылку на гугл-документ — Claude скачивает его через официальный коннектор
 Google Drive, чистит от артефактов экспорта и кладёт в вашу базу знаний (Obsidian,
 репозиторий, любой Markdown-vault), сам выбирая правильную папку по содержимому.

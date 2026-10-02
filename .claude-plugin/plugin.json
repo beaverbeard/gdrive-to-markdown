@@ -1,8 +1,8 @@
 {
   "name": "gdrive-to-markdown",
   "displayName": "Google Drive → Markdown",
-  "version": "1.0.0",
-  "description": "Забирает Google Docs, Sheets и Slides в чистую Markdown-базу знаний целиком, с раскладкой по содержимому, через коннектор Google Drive. Без API-ключей и OAuth.",
+  "version": "1.0.1",
+  "description": "Imports Google Docs, Sheets and Slides into a clean Markdown knowledge base — in full, auto-filed by content — via the Google Drive connector. No API keys or OAuth setup.",
   "author": {
     "name": "Rodion Scryabin (beaverbeard)",
     "url": "https://github.com/beaverbeard"
